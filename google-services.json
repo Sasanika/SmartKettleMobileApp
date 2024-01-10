@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "266217670774",
+    "firebase_url": "https://fir-realtime-react-nativ-470ac-default-rtdb.firebaseio.com",
+    "project_id": "fir-realtime-react-nativ-470ac",
+    "storage_bucket": "fir-realtime-react-nativ-470ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266217670774:android:9d39e3289ff1e95dacf757",
+        "android_client_info": {
+          "package_name": "com.sasanika.firestorecrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUatFNal2hLMw3o8SSOVSOH3fsUGYp50Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
